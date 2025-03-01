@@ -1,0 +1,1 @@
+password : bcrypt.hashSync("welcome",8)
